@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "titulo": "Mandela",
+        "autor": "Nelson Mandela",
+        "genero": "Biografia"
+    },
+    {
+        "id": "2",
+        "titulo": "Um defeito de cor",
+        "autor": "Ana Maria Gonçalves",
+        "genero": "Recriação Ficcional"
+    },
+    {
+        "id": "3",
+        "titulo": "Quarto de Despejo: Diário de uma favelada",
+        "autor": "Carolina Maria de Jesus",
+        "genero": "Drama"
+    },
+    {
+        "id": "4",
+        "titulo": "Na minha pele",
+        "autor": "Lázaro Ramos",
+        "genero": "Biografia"
+    },
+    {
+        "id": "5",
+        "titulo": "Nem preto nem branco, muito pelo contrário",
+        "autor": "Lilia Moritz Schwarcz",
+        "genero": "Cronica"
+    },
+    {
+        "id": "6",
+        "titulo": "O Genocidio do negro brasileiro",
+        "autor": "Andias Nascimento",
+        "genero": "Expositivo"
+    },
+    {
+        "id": "7",
+        "titulo": "Mulheres, raça e classe",
+        "autor": "Angela Davis",
+        "genero": "Expositivo"
+    },
+    {
+        "id": "8",
+        "titulo": "A Cor Púrpura",
+        "autor": "Alice Walker",
+        "genero": "Drama"
+    },
+    {
+        "id": "9",
+        "titulo": "O sol é para todos",
+        "autor": "Harper Lee",
+        "genero": "Drama/Ficção"
+    },
+    {
+        "id": "10",
+        "titulo": "Laços de Sangue",
+        "autor": "Octavia Butler",
+        "genero": "Ficção Científica"
+    }
+] 

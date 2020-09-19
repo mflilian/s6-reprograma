@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "nome popular": "Leopardo",
+        "reino": "Animalia",
+        "expectativa de vida": "12-17 anos"
+    },
+    {
+        "id": "2",
+        "nome popular": "Pavão",
+        "reino": "Animalia",
+        "expectativa de vida": "10-25 anos"
+    },
+    {
+        "id": "3",
+        "nome popular": "Hipopótamo",
+        "reino": "Animalia",
+        "expectativa de vida": "40-50 anos"
+    },
+    {
+        "id": "4",
+        "nome popular": "Girafa",
+        "reino": "Animalia",
+        "expectativa de vida": "10-20 anos"
+    },
+    {
+        "id": "5",
+        "nome popular": "Elefante",
+        "reino": "Animalia",
+        "expectativa de vida": "60-70 anos"
+    },
+    {
+        "id": "6",
+        "nome popular": "Coala",
+        "reino": "Animalia",
+        "expectativa de vida": "13-18 anos"
+    },
+    {
+        "id": "7",
+        "nome popular": "Bicho-preguiça",
+        "reino": "Animalia",
+        "expectativa de vida": "30-40 anos"
+    },
+    {
+        "id": "8",
+        "nome popular": "Beija-flor",
+        "reino": "Animalia",
+        "expectativa de vida": "3-5 anos"
+    },
+    {
+        "id": "9",
+        "nome popular": "Cachorro",
+        "reino": "Animalia",
+        "expectativa de vida": "10-13 anos"
+    },
+    {
+        "id": "10",
+        "nome popular": "Tubarão",
+        "reino": "Animalia",
+        "expectativa de vida": "20-30 anos"
+    }
+] 

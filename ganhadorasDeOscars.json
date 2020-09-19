@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "nome": "Janet Gaynor",
+        "ano de indicação": "1928",
+        "filme": "Aurora, a hora suprema"
+    },
+    {
+        "id": "2",
+        "nome": "Anna Magnani",
+        "ano de indicação": "1955",
+        "filme": "A rosa tatuada"
+    },
+    {
+        "id": "3",
+        "nome": "Elizabeth Taylor",
+        "ano de indicação": "1966",
+        "filme": "Quem tem medo de Virginia Woolf?"
+    },
+    {
+        "id": "4",
+        "nome": "Katharine Hepburn",
+        "ano de indicação": "1967",
+        "filme": "Adivinha quem vem dançar?"
+    },
+    {
+        "id": "5",
+        "nome": "Natalie Portman",
+        "ano de indicação": "2010",
+        "filme": "Cisne Negro"
+    },
+    {
+        "id": "6",
+        "nome": "Cate Blanchett",
+        "ano de indicação": "2013",
+        "filme": "Blue Jasmine"
+    },
+    {
+        "id": "7",
+        "nome": "Meryl Streep",
+        "ano de indicação": "2011",
+        "filme": "A dama de ferro"
+    },
+    {
+        "id": "8",
+        "nome": "Brie Larson",
+        "ano de indicação": "2015",
+        "filme": "Quarto"
+    },
+    {
+        "id": "9",
+        "nome": "Emma Stone",
+        "ano de indicação": "2016",
+        "filme": "La la land"
+    },
+    {
+        "id": "10",
+        "nome": "Renée Zellweger",
+        "ano de indicação": "2019",
+        "filme": "Judy"
+    }
+] 

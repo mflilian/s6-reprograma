@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "nome": "Porto de Galinhas",
+        "estado": "Pernambuco",
+        "cidade": "Ipojuca"
+    },
+    {
+        "id": "2",
+        "nome": "Ilha de Santo Aleixo",
+        "estado": "Pernambuco",
+        "cidade": "Sirinhaém"
+    },
+    {
+        "id": "3",
+        "nome": "Ilha de Itamaracá",
+        "estado": "Pernambuco",
+        "cidade": "Itamaracá"
+    },
+    {
+        "id": "4",
+        "nome": "Praia de Boa Viagem",
+        "estado": "Pernambuco",
+        "cidade": "Boa Viagem"
+    },
+    {
+        "id": "5",
+        "nome": "Praia do Pina",
+        "estado": "Pernambuco",
+        "cidade": "Recife"
+    },
+    {
+        "id": "6",
+        "nome": "Carneiros",
+        "estado": "Pernambuco",
+        "cidade": "Tamandaré"
+    },
+    {
+        "id": "7",
+        "nome": "Tamandaré",
+        "estado": "Pernambuco",
+        "cidade": "Tamandaré"
+    },
+    {
+        "id": "8",
+        "nome": "Fernando de Noronha",
+        "estado": "Pernambuco",
+        "cidade": "Fernando de Noronha"
+    },
+    {
+        "id": "9",
+        "nome": "Praia de Santo Agostinho",
+        "estado": "Pernambuco",
+        "cidade": "Cabo de Santo Agostinho"
+    },
+    {
+        "id": "10",
+        "nome": "Praia de Olinda",
+        "estado": "Pernambuco",
+        "cidade": "Olinda"
+    }
+] 

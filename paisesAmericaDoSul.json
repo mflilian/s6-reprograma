@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "país": "Brasil",
+        "capital": "Brasilia",
+        "idioma": "Portugues/br"
+    },
+    {
+        "id": "2",
+        "país": "Argentina",
+        "capital": "Buenos Aires",
+        "idioma": "Espanhol"
+    },
+    {
+        "id": "3",
+        "país": "Bolívia",
+        "capital": "La Paz",
+        "idioma": "Espanhol, Quichua e Aimara"
+    },
+    {
+        "id": "4",
+        "país": "Chile",
+        "capital": "Santiago",
+        "idioma": "Espanhol"
+    },
+    {
+        "id": "5",
+        "país": "Colômbia",
+        "capital": "Bogotá",
+        "idioma": "Espanhol"
+    },
+    {
+        "id": "6",
+        "país": "Equador",
+        "capital": "Quito",
+        "idioma": "Espanhol"
+    },
+    {
+        "id": "7",
+        "país": "Guiana",
+        "capital": "Georgetown",
+        "idioma": "Inglês"
+    },
+    {
+        "id": "8",
+        "país": "Paraguai",
+        "capital": "Assunção",
+        "idioma": "Espanhol e Guarani"
+    },
+    {
+        "id": "9",
+        "país": "Peru",
+        "capital": "Lima",
+        "idioma": "Espanhol, Quichua e Aimara"
+    },
+    {
+        "id": "10",
+        "país": "Suriname",
+        "capital": "Paramaribo",
+        "idioma": "Holandes"
+    }
+] 

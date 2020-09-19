@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "nome": "Ikki de Fenix",
+        "armadura": "bronze",
+        "signo": "leão"
+    },
+    {
+        "id": "2",
+        "nome": "Shun de Andromeda",
+        "armadura": "bronze",
+        "signo": "Virgem"
+    },
+    {
+        "id": "3",
+        "nome": "Saga",
+        "armadura": "ouro",
+        "signo": "gêmeos"
+    },
+    {
+        "id": "4",
+        "nome": "Aiolia",
+        "armadura": "ouro",
+        "signo": "Leão"
+    },
+    {
+        "id": "5",
+        "nome": "Hyoga de Cisne",
+        "armadura": "bronze",
+        "signo": "Aquario"
+    },
+    {
+        "id": "6",
+        "nome": "Shiryu de Dragão",
+        "armadura": "bronze",
+        "signo": "Libra"
+    },
+    {
+        "id": "7",
+        "nome": "Shakka",
+        "armadura": "ouro",
+        "signo": "virgem"
+    },
+    {
+        "id": "8",
+        "nome": "Mu",
+        "armadura": "ouro",
+        "signo": "áries"
+    },
+    {
+        "id": "9",
+        "nome": "Aldebaran",
+        "armadura": "ouro",
+        "signo": "touro"
+    },
+    {
+        "id": "10",
+        "nome": "Kanon",
+        "armadura": "ouro",
+        "signo": "gemeos"
+    }
+] 

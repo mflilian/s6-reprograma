@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "nome": "gol",
+        "ano": "2016",
+        "cor": "cinza"
+    },
+    {
+        "id": "2",
+        "nome": "uno",
+        "ano": "2010",
+        "cor": "cinza"
+    },
+    {
+        "id": "3",
+        "nome": "palio",
+        "ano": "2014",
+        "cor": "branco"
+    },
+    {
+        "id": "4",
+        "nome": "celta",
+        "ano": "2015",
+        "cor": "preto"
+    },
+    {
+        "id": "5",
+        "nome": "astra",
+        "ano": "2019",
+        "cor": "cinza"
+    },
+    {
+        "id": "6",
+        "nome": "siena",
+        "ano": "2018",
+        "cor": "branco"
+    },
+    {
+        "id": "7",
+        "nome": "fiesta",
+        "ano": "2016",
+        "cor": "vermelho"
+    },
+    {
+        "id": "8",
+        "nome": "voyage",
+        "ano": "2017",
+        "cor": "cinza"
+    },
+    {
+        "id": "9",
+        "nome": "onyx",
+        "ano": "2017",
+        "cor": "branco"
+    },
+    {
+        "id": "10",
+        "nome": "hb20",
+        "ano": "2018",
+        "cor": "vermelha"
+    }
+] 

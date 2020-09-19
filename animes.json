@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "nome": "Code Geass",
+        "episódios": "75",
+        "temporadas": "3"
+    },
+    {
+        "id": "2",
+        "nome": "Naruto",
+        "episódios": "500",
+        "temporadas": "2"
+    },
+    {
+        "id": "3",
+        "nome": "Dragon Ball Z",
+        "episódios": "291",
+        "temporadas": "1"
+    },
+    {
+        "id": "4",
+        "nome": "Tokyo Ghoul",
+        "episódios": "32",
+        "temporadas": "3"
+    },
+    {
+        "id": "5",
+        "nome": "Akame Ga Kill",
+        "episódios": "24",
+        "temporadas": "1"
+    },
+    {
+        "id": "6",
+        "nome": "Zankyo no Terror",
+        "episódios": "12",
+        "temporadas": "1"
+    },
+    {
+        "id": "7",
+        "nome": "Sword Art Online",
+        "episódios": "79",
+        "temporadas": "3"
+    },
+    {
+        "id": "8",
+        "nome": "Death Note",
+        "episódios": "32",
+        "temporadas": "2"
+    },
+    {
+        "id": "9",
+        "nome": "Bleach",
+        "episódios": "366",
+        "temporadas": "16"
+    },
+    {
+        "id": "10",
+        "nome": "One punch man",
+        "episódios": "24",
+        "temporadas": "1"
+    }
+] 
